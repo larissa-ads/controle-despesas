@@ -1,5 +1,17 @@
-# controle-despesas
-Projeto em React para registrar despesas e mostrar resumo mensal
+# Controle de Despesas 💰
+
+Projeto em React para registrar despesas e mostrar um resumo mensal.
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
 
 ## 📚 O que eu aprendi
 
@@ -9,3 +21,34 @@ Também comecei a entender como funciona o `useState` pra controlar as informaç
 
 Além disso, comecei a ter mais noção sobre organização do código e boas práticas. Foi uma experiência que me deu mais segurança pra continuar aprendendo e criar novos projetos por conta própria.
 
+---
+
+## 💸 Exemplo de Gastos Mensais
+
+Aqui está um exemplo simples de como as despesas podem ser registradas:
+
+| Descrição  | Valor    |
+|------------|----------|
+| Mercado    | R$ 500,00 |
+| Gasolina   | R$ 200,00 |
+| Academia   | R$ 100,00 |
+| Internet   | R$ 150,00 |
+| Transporte | R$ 80,00  |
+
+**💰 Total:** R$ 1.030,00
+
+---
+
+## 👩‍💻 Como rodar o projeto
+
+1. Clone o repositório:  
+   `git clone https://github.com/larissa-ads/controle-despesas.git`
+
+2. Acesse a pasta:  
+   `cd controle-despesas`
+
+3. Instale as dependências:  
+   `npm install`
+
+4. Rode o projeto:  
+   `npm start`
